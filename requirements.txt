@@ -6,3 +6,9 @@ numpy
 scikit-learn
 seaborn
 scipy
+torch
+torchvision
+nltk
+pillow
+tqdm
+rouge-score
