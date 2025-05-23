@@ -1,1 +1,3 @@
 models/model_checkpoint.h5
+data
+outputs/sample_predictions.png
